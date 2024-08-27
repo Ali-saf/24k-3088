@@ -1,0 +1,11 @@
+Start 
+Input Num1,Num2, Num3, operation
+Set Sol, Num1, Num2 , Num3 to 0
+If operation = "-"
+Set Sol to Num1 - Num2
+else
+If operation = "+"
+Set Sol to Num1 + Num2
+else
+Print "Enter operations, only + or -"
+End
