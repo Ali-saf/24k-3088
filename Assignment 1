@@ -1,0 +1,10 @@
+Start
+Input Num1,Num2,Num3
+if Num1>Num2 And Num1>Num3 Then
+Print "Num1 is the greatest"
+     else
+          if Num2>Num1 And Num2>Num3 Then
+              Print "Num2 is the greatest"
+else
+       Print "Num3 is the greatest"
+    
