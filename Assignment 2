@@ -1,0 +1,6 @@
+Start 
+Input VarA, VarB, VarC
+Set Sum to 0
+Set Sum to VarA -( -VarB) - (-VarC)
+Print Sum
+End
