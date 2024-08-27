@@ -1,0 +1,4 @@
+Ask the user to input the number (nth)
+Input the number (n)
+If number nth mod n == 0 hence it is a divisor 
+number mod 2, if == 0, hence number is even else odd
